@@ -18,6 +18,6 @@
 - **Платформы:** GitHub, Kaggle
 
 ---
-[Мой первый проект](projects\python-analysis\zara_sales_analysis\notebooks\zara_data_analysis.ipynb)
+[Мой первый проект](projects/python-analysis/zara_sales_analysis/notebooks/zara_data_analysis.ipynb)
 
 *Этот репозиторий обновляется по мере моего обучения!*
